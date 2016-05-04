@@ -1,0 +1,15 @@
+{
+	"description": "IGN is a San Francisco-based games and entertainment media company operated by IGN Entertainment Inc., a subsidiary of j2 Global and wholly owned by Ziff Davis. and headed up by its former editor-in-chief, Peer Schneider.",
+	"author": "Fábio Ferreira",
+	"homepage": "https://github.com/facanferff/movian-plugin-ign",
+	"title": "IGN",
+	"synopsis": "IGN: Video gaming website",
+	"version": "0.9.1",
+	"file": "ign.js",
+	"showtimeVersion": "5.0.156",
+	"type": "ecmascript",
+	"id": "ign",
+	"icon": "logo.png",
+	"category": "video",
+	"apiversion": 2
+}
