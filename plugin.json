@@ -4,7 +4,7 @@
 	"homepage": "https://github.com/facanferff/movian-plugin-ign",
 	"title": "IGN",
 	"synopsis": "IGN: Video gaming website",
-	"version": "0.9.1",
+	"version": "0.9.2",
 	"file": "ign.js",
 	"showtimeVersion": "5.0.156",
 	"type": "ecmascript",

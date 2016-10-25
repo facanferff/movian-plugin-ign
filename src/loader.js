@@ -73,7 +73,7 @@ function loaderVideos(page, url) {
 
         var metadata = {};
 
-        if (entry.getElementByTagName("a")[0].attributes.getNamedItem("title")) {
+        if (entry.getElementByTagName("a")[0] && entry.getElementByTagName("a")[0].attributes.getNamedItem("title")) {
           metadata.title = entry.getElementByTagName("a")[0]
             .attributes.getNamedItem("title").value;
         } else {
